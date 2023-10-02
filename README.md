@@ -3,7 +3,7 @@ i know coding in :
 - C
 - C++
 - C#
-- HTML/CC
+- HTML/CSS
 - Javascript
 - Python
 
