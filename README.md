@@ -7,4 +7,3 @@ i know coding in :
 - Javascript
 - Python
 
-i'm really good in typing (so for miss, i'm really good with my fingers 😌)
